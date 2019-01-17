@@ -1228,7 +1228,7 @@
       var format = opt.format || {
          hash: '%H',
          date: '%ai',
-         message: '%s%d',
+         message: '%s',
          body: '%b',
          author_name: '%aN',
          author_email: '%ae'
